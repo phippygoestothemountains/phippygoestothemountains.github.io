@@ -1,3 +1,9 @@
+# Phippy and Zee Go To The Mountains
+
+Written by: Dave Cadwallader
+Illustrated by: Dave, Boden, and Zenna Cadwallader
+Phippy and Zee artwork licensed under Creative Commons Attribution (CC-BY). See [https://phippy.io](https://phippy.io)
+
 ![cover](https://user-images.githubusercontent.com/1438478/58668004-dd6c3c80-82f4-11e9-90e3-00b6580c27e8.jpg)
 
 "Aunt Phippy, what's that beautiful mountain?", asked Zee.
