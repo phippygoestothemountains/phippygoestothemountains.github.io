@@ -35,3 +35,7 @@ Just then Zee looked down and saw that the once spikey and precarious landscape 
 Phippy and Zee came to the edge of a cliff. "Where did our path go?" wondered Zee. "Prometheus mountain didn't find any more samples, so our trail stops here," explained Phippy. "In about 5 minutes, this trail will be marked stale and disappear."
 
 "Oh no," said Zee. "We'd better climb down! Can we get a couple of Captain Kube's Cliff Bars for the trip home?"
+
+---
+
+Thanks to the Cloud Native Computing Foundation for making Phippy, Zee, and their friends available under the Creative Commons Attribution License (CC-BY). Please visit [https://phippy.io](https://phippy.io) to find their other adventures.
