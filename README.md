@@ -44,6 +44,8 @@ Phippy and Zee came to the edge of a cliff. "Where did our path go?" wondered Ze
 
 "Good idea," agreed Zee. "But can we get a couple of Captain Kube's Cliff Bars for the trip home?"
 
+![zee-end](https://user-images.githubusercontent.com/1438478/58668377-ec072380-82f5-11e9-8785-561bce98dce4.jpg)
+
 ---
 
 Thanks to the Cloud Native Computing Foundation for making Phippy, Zee, and their friends available under the Creative Commons Attribution License (CC-BY). Please visit [https://phippy.io](https://phippy.io) to find their other adventures.
