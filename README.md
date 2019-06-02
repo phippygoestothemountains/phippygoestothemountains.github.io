@@ -18,6 +18,8 @@ Phippy and Zee artwork licensed under Creative Commons Attribution (CC-BY). See 
 
 As they ascended up the slope, they came across a swarm of flies. "Those," said Phippy, "are samples. Each one tells us a number and a time."
 
+![samples-explainer](https://user-images.githubusercontent.com/1438478/58757536-99c72d80-84c2-11e9-9c08-0dda20b55646.jpg)
+
 "Are they wearing name tags?", asked Zee.
 
 "Yes," said Phippy. Those are the labels. The labels tell us more about their story.
@@ -25,6 +27,8 @@ As they ascended up the slope, they came across a swarm of flies. "Those," said 
 ![status404](https://user-images.githubusercontent.com/1438478/58723197-b6fedd80-8396-11e9-85a3-2594ab010a67.jpg)
 
 Zee noticed one fly with a tag reading "status: 404". "That one looks lost," Zee said. "I hope she finds her way home."
+
+![labels-explainer](https://user-images.githubusercontent.com/1438478/58757533-992e9700-84c2-11e9-94f2-110d4ab0d2a5.jpg)
 
 ![instant-vector](https://user-images.githubusercontent.com/1438478/58668362-df82cb00-82f5-11e9-9e9c-06ff9a775db7.jpg)
 
@@ -34,11 +38,15 @@ Zee looked confused. "We must be higher up than that! And who said that anyway?"
 
 "That," said Phippy, "is an Instant Vector. He can only measure things right where he is."
 
+![instant-vectors-explainer](https://user-images.githubusercontent.com/1438478/58757537-99c72d80-84c2-11e9-8314-896bb04c2de6.jpg)
+
 ![range-vector](https://user-images.githubusercontent.com/1438478/58668498-58822280-82f6-11e9-95a3-b4e63d333159.jpg)
 
 As Phippy and Zee hiked on, they came to a series of jagged peaks. Suddenly a hawk swooped down from the sky, scanned her eyes across the ridge, and loudly screeched a whole bunch of numbers.
 
 "This is a Range Vector," explained Phippy. She can see all the samples as far back as you ask her to."
+
+![range-vectors-and-functions-explainer](https://user-images.githubusercontent.com/1438478/58757535-992e9700-84c2-11e9-9d5e-589c153c156a.jpg)
 
 ![moving-average](https://user-images.githubusercontent.com/1438478/58668497-58822280-82f6-11e9-9a53-02fdb0394aa7.jpg)
 
@@ -47,6 +55,8 @@ Suddenly the ground started to shake. Phippy and Zee jumped up in surprise as th
 Phippy smiled and explained, "that was a function! Each function has magical powers to change the shape of the landscape. This one listened to the Range Vector and gave us a moving average."
 
 Just then Zee looked down and saw that the once spikey and precarious landscape was now smooth and easy to walk on. "Wow, that makes it much easier!" said Zee.
+
+![range-vectors-and-functions-explainer](https://user-images.githubusercontent.com/1438478/58757535-992e9700-84c2-11e9-9d5e-589c153c156a.jpg)
 
 ![end-of-the-trail](https://user-images.githubusercontent.com/1438478/58723199-b7977400-8396-11e9-80bc-d42202278115.jpg)
 
