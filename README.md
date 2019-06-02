@@ -46,7 +46,7 @@ As Phippy and Zee hiked on, they came to a series of jagged peaks. Suddenly a ha
 
 "This is a Range Vector," explained Phippy. She can see all the samples as far back as you ask her to."
 
-![range-vector-explainer](https://user-images.githubusercontent.com/1438478/58757534-992e9700-84c2-11e9-816b-de971dbc9ef6.jpg)
+![range-vector-explainer-2](https://user-images.githubusercontent.com/1438478/58757857-40fa9380-84c8-11e9-9e8e-bff3432a1997.jpg)
 
 ![moving-average](https://user-images.githubusercontent.com/1438478/58668497-58822280-82f6-11e9-9a53-02fdb0394aa7.jpg)
 
